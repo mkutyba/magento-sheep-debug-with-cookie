@@ -1,0 +1,7 @@
+{
+    "name": "kutybait/magento-sheep-debug-with-cookie",
+    "type": "magento-module",
+    "require": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}

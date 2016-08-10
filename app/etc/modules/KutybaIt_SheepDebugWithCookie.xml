@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <KutybaIt_SheepDebugWithCookie>
+            <active>true</active>
+            <codePool>community</codePool>
+            <version>0.1.0</version>
+            <depends>
+                <Sheep_Debug/>
+            </depends>
+        </KutybaIt_SheepDebugWithCookie>
+    </modules>
+</config>

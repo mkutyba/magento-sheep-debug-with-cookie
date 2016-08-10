@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <KutybaIt_SheepDebugWithCookie>
+            <version>0.1.0</version>
+        </KutybaIt_SheepDebugWithCookie>
+    </modules>
+    <global>
+        <helpers>
+            <sheepdebugwithcookie>
+                <class>KutybaIt_SheepDebugWithCookie_Helper</class>
+            </sheepdebugwithcookie>
+            <sheep_debug>
+                <rewrite>
+                    <data>KutybaIt_SheepDebugWithCookie_Helper_Debug_Data</data>
+                </rewrite>
+            </sheep_debug>
+        </helpers>
+    </global>
+</config>
